@@ -36,7 +36,7 @@
 	while ( len-- )
 	{
 		em = ems[len];
-		text = em.innerText;
+		text = em.textContent || em.innerText;
 
 		if ( text.indexOf( AT ) > -1 &&
 		 	 text.indexOf( DOT ) > -1 )
