@@ -1,5 +1,5 @@
-Easy Email Obfuscator for ExpressionEngine
-==========================================
+Email Obfuscation for ExpressionEngine
+======================================
 
 To obfuscate an email address, simply encode it:
 
